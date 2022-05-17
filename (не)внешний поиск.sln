@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "(не)внешний поиск", "(не)внешний поиск.vcxproj", "{252428DF-9455-4318-AAC4-F2443B3447AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{252428DF-9455-4318-AAC4-F2443B3447AF}.Debug|x64.ActiveCfg = Debug|x64
+		{252428DF-9455-4318-AAC4-F2443B3447AF}.Debug|x64.Build.0 = Debug|x64
+		{252428DF-9455-4318-AAC4-F2443B3447AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{252428DF-9455-4318-AAC4-F2443B3447AF}.Debug|x86.Build.0 = Debug|Win32
+		{252428DF-9455-4318-AAC4-F2443B3447AF}.Release|x64.ActiveCfg = Release|x64
+		{252428DF-9455-4318-AAC4-F2443B3447AF}.Release|x64.Build.0 = Release|x64
+		{252428DF-9455-4318-AAC4-F2443B3447AF}.Release|x86.ActiveCfg = Release|Win32
+		{252428DF-9455-4318-AAC4-F2443B3447AF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C87601A6-99FD-4672-BF2D-74AF941FA28C}
+	EndGlobalSection
+EndGlobal
